@@ -1,0 +1,6 @@
+{
+  "name": "CaseIntel Police Portal",
+  "description": "Karnataka State Police Automated Investigation & Case Intelligence System",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

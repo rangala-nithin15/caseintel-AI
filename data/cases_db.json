@@ -1,0 +1,188 @@
+[
+  {
+    "firNumber": "FIR/CCB/2026/2401",
+    "policeStation": "Cyber Crime PS, Bengaluru City",
+    "district": "Bengaluru Urban",
+    "ipcSections": [
+      "Section 66D IT Act",
+      "IPC 420",
+      "IPC 468",
+      "BNS 318"
+    ],
+    "crimeType": "Cyber Financial Fraud & Ransomware",
+    "dateReported": "2026-07-22 14:30 IST",
+    "dateIncident": "2026-07-21 23:15 IST",
+    "status": "UNDER_INVESTIGATION",
+    "priority": "CRITICAL",
+    "complainantName": "FinTech Systems India Pvt Ltd",
+    "suspectsName": [
+      "ShadowBytes Cyber Syndicate",
+      "Arjun 'Crypto' Varma"
+    ],
+    "victimName": "Global Digital Payments Gateway",
+    "stolenValueINR": "₹ 3,45,00,000",
+    "description": "Unauthorized API injection targeting central bank payment router. Malware signature matches 'DarkPhish-3' strain previously flagged in Mysuru financial fraud cases.",
+    "locationCoordinates": {
+      "lat": 12.9716,
+      "lng": 77.5946,
+      "address": "MG Road, Bengaluru Urban"
+    },
+    "investigatingOfficer": "Inspector K. Vijay Kumar",
+    "evidenceItemsCount": 18,
+    "modusOperandiTag": "API Injection via Compromised Admin Credentials & USDT Tumbler"
+  },
+  {
+    "firNumber": "FIR/IND/2026/1892",
+    "policeStation": "Indiranagar PS, Bengaluru City",
+    "district": "Bengaluru Urban",
+    "ipcSections": [
+      "IPC 392",
+      "IPC 395",
+      "IPC 397",
+      "BNS 309"
+    ],
+    "crimeType": "Armed Robbery & Gold Heist",
+    "dateReported": "2026-07-20 09:15 IST",
+    "dateIncident": "2026-07-20 02:40 IST",
+    "status": "SUSPECT_DETAINED",
+    "priority": "HIGH",
+    "complainantName": "Rajesh Soni (Swarna Jewellers)",
+    "suspectsName": [
+      "Vikram 'Raja' Gowda",
+      "Siddharth 'Snake' Naik"
+    ],
+    "victimName": "Swarna Jewellers Showroom",
+    "stolenValueINR": "₹ 1,80,00,000",
+    "description": "Four masked suspects breached rear security grid using thermal torch, cut alarm relays, and seized 2.4kg raw gold bullion before escaping on stolen KTM motorcycles.",
+    "locationCoordinates": {
+      "lat": 12.9784,
+      "lng": 77.6408,
+      "address": "100 Feet Road, Indiranagar, Bengaluru"
+    },
+    "investigatingOfficer": "Sub-Inspector M. Ramesh",
+    "evidenceItemsCount": 24,
+    "modusOperandiTag": "Thermal Torch Vault Cutting & Stolen Bike Getaway"
+  },
+  {
+    "firNumber": "FIR/MNG/2026/0941",
+    "policeStation": "Panambur PS, Mangaluru",
+    "district": "Dakshina Kannada",
+    "ipcSections": [
+      "NDPS Act 20(b)",
+      "IPC 120B",
+      "BNS 61"
+    ],
+    "crimeType": "Narcotics Trafficking & Maritime Smuggling",
+    "dateReported": "2026-07-18 22:10 IST",
+    "dateIncident": "2026-07-18 19:30 IST",
+    "status": "UNDER_INVESTIGATION",
+    "priority": "CRITICAL",
+    "complainantName": "Coast Guard Intelligence Wing",
+    "suspectsName": [
+      "Rashid 'Ocean' Al-Mansoori",
+      "Kiran Hegde"
+    ],
+    "victimName": "State Security",
+    "stolenValueINR": "₹ 12,00,00,000",
+    "description": "Interception of mechanized fishing vessel carrying 45 kg high-grade hydroponic cannabis and synthetic amphetamines concealed inside double-bottomed ice holds.",
+    "locationCoordinates": {
+      "lat": 12.952,
+      "lng": 74.808,
+      "address": "Panambur Port Outer Anchorage, Mangaluru"
+    },
+    "investigatingOfficer": "ACP B. Suresh Nayak",
+    "evidenceItemsCount": 31,
+    "modusOperandiTag": "High-Sea Vessel Ship-to-Ship Transfer with GPS Beaconing"
+  },
+  {
+    "firNumber": "FIR/MYS/2026/1120",
+    "policeStation": "Lashkar PS, Mysuru City",
+    "district": "Mysuru",
+    "ipcSections": [
+      "IPC 302",
+      "IPC 201",
+      "BNS 103"
+    ],
+    "crimeType": "Homicide & Syndicate Contract Strike",
+    "dateReported": "2026-07-15 06:45 IST",
+    "dateIncident": "2026-07-15 01:20 IST",
+    "status": "CHARGE_SHEET_FILED",
+    "priority": "CRITICAL",
+    "complainantName": "Sanjay Prasad",
+    "suspectsName": [
+      "Nagaraj 'Bullet' Anna",
+      "Syed Zeeshan"
+    ],
+    "victimName": "Anand Murthy (Real Estate Developer)",
+    "description": "Victim targeted outside private estate by two assailants on unnumbered scooter using 7.65mm unregistered firearm. Shell casings match weapon from 2024 Hubballi gang case.",
+    "locationCoordinates": {
+      "lat": 12.3052,
+      "lng": 76.6552,
+      "address": "Chamundi Hill Road, Mysuru"
+    },
+    "investigatingOfficer": "Inspector Devraj Patil",
+    "evidenceItemsCount": 14,
+    "modusOperandiTag": "Drive-by Shooting with 7.65mm Country-made Firearm"
+  },
+  {
+    "firNumber": "FIR/HBL/2026/0655",
+    "policeStation": "Suburban PS, Hubballi-Dharwad",
+    "district": "Dharwad",
+    "ipcSections": [
+      "IPC 379",
+      "IPC 411",
+      "BNS 303"
+    ],
+    "crimeType": "Organized Heavy Vehicle Theft Ring",
+    "dateReported": "2026-07-12 11:00 IST",
+    "dateIncident": "2026-07-11 23:45 IST",
+    "status": "CLOSED_SOLVED",
+    "priority": "MEDIUM",
+    "complainantName": "VRL Logistics Fleet Operations",
+    "suspectsName": [
+      "Mahesh 'Mechanic' Patil"
+    ],
+    "victimName": "VRL Logistics Fleet",
+    "stolenValueINR": "₹ 65,00,00,0",
+    "description": "Interstate theft ring bypassing GPS scramblers on Ashok Leyland multi-axle trucks using frequency jammers and fake chassis number etching.",
+    "locationCoordinates": {
+      "lat": 15.3647,
+      "lng": 75.124,
+      "address": "National Highway 48 Bypass, Hubballi"
+    },
+    "investigatingOfficer": "Inspector P. Shivaswamy",
+    "evidenceItemsCount": 9,
+    "modusOperandiTag": "GPS Frequency Jammer & Chassis Re-stamping Workshop"
+  },
+  {
+    "firNumber": "FIR/WFD/2026/3012",
+    "policeStation": "Whitefield Tech PS, Bengaluru",
+    "district": "Bengaluru Urban",
+    "ipcSections": [
+      "IPC 384",
+      "Section 66 IT Act",
+      "BNS 308"
+    ],
+    "crimeType": "Deepfake Extortion & Cyber Blackmail",
+    "dateReported": "2026-07-24 10:15 IST",
+    "dateIncident": "2026-07-23 18:00 IST",
+    "status": "UNDER_INVESTIGATION",
+    "priority": "HIGH",
+    "complainantName": "Dr. Ananya Rao",
+    "suspectsName": [
+      "Digital Syndicate 'X-Ghost'",
+      "Unknown Crypto Operator"
+    ],
+    "victimName": "Dr. Ananya Rao & 12 Senior Tech Executives",
+    "stolenValueINR": "₹ 45,00,000",
+    "description": "Perpetrators generated hyper-realistic voice deepfakes and manipulated video logs of corporate leadership to demand immediate Monero ransom.",
+    "locationCoordinates": {
+      "lat": 12.9698,
+      "lng": 77.7499,
+      "address": "ITPL Main Road, Whitefield, Bengaluru"
+    },
+    "investigatingOfficer": "Inspector K. Vijay Kumar",
+    "evidenceItemsCount": 12,
+    "modusOperandiTag": "Generative AI Voice Cloning & Monero Crypto Extortion"
+  }
+]
