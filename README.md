@@ -58,7 +58,7 @@ Nothing exotic here on purpose — the goal was to keep the stack simple enough 
 Clone the repo:
 ```bash
 git clone https://github.com/rangala-nithin15/caseintel-AI.git
-cd caseintel-ai
+cd caseintel-AI
 ```
 
 Install dependencies:
